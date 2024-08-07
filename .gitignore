@@ -9,7 +9,6 @@ node_modules/
 bower_components
 .vscode/
 *.sublime*
-package-lock.json
 
 psd
 thumb
