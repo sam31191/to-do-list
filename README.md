@@ -67,6 +67,7 @@ The application will be running at http://localhost:3000/.
 
 ### Project Structure
 
+```
 to-do-list/
 ├── src/
 │   ├── backend/
@@ -83,6 +84,7 @@ to-do-list/
 │   └── package.json
 ├── .gitignore
 └── README.md
+```
 
 
 ### Contributing
